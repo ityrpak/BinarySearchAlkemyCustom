@@ -1,6 +1,6 @@
 public class SearchAlgorithms {
 
-    public Integer BinarySearch(Integer[] sortedArray, Integer target){
+    public static Integer BinarySearch(Integer[] sortedArray, Integer target){
 
         int arrayLength = sortedArray.length;
         int arrayFirst = 0;
